@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sxkIap5jIQO21FpjWxie1NueNiLq2QKrPrm/ojI71c9LkhwI3kWL+sq4sanaleX3BGKlIBCk6kSEvG5UyL6Pw==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncs/2023/School/School.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

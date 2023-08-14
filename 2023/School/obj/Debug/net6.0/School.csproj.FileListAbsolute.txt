@@ -1,0 +1,15 @@
+/home/enilo/Clones/moderncs/2023/School/bin/Debug/net6.0/School
+/home/enilo/Clones/moderncs/2023/School/bin/Debug/net6.0/School.deps.json
+/home/enilo/Clones/moderncs/2023/School/bin/Debug/net6.0/School.runtimeconfig.json
+/home/enilo/Clones/moderncs/2023/School/bin/Debug/net6.0/School.dll
+/home/enilo/Clones/moderncs/2023/School/bin/Debug/net6.0/School.pdb
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.csproj.AssemblyReference.cache
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.GeneratedMSBuildEditorConfig.editorconfig
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.AssemblyInfoInputs.cache
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.AssemblyInfo.cs
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.csproj.CoreCompileInputs.cache
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.dll
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/refint/School.dll
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.pdb
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/School.genruntimeconfig.cache
+/home/enilo/Clones/moderncs/2023/School/obj/Debug/net6.0/ref/School.dll
