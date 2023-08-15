@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGTMUde6cKOUS2ykPgGAO8OXAnei0wLoPzZQaTR13p3TXDh+3fwMRJE2l1Qpvg7wkdjMDq1QDgqZfLGInUjyZw==",
+  "success": true,
+  "projectFilePath": "/home/enilo/Clones/moderncs/2023/Oro/Oro.csproj",
+  "expectedPackageFiles": [
+    "/home/enilo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
